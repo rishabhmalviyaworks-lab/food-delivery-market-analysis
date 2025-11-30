@@ -63,5 +63,6 @@ It can be expanded using ML models such as:
 2. Cuisine recommendation
 3. Restaurant clustering
    
+<img width="1518" height="809" alt="Screenshot 2025-11-27 001625" src="https://github.com/user-attachments/assets/6827a4c2-5291-48ad-a5e2-a40f2bd89c66" />
 
 
